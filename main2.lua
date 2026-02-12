@@ -1,3 +1,5 @@
+--- Task #3 ---
+
 function calculateTotalSum()
     local totalSum = 0
     local continueInput = "y"
